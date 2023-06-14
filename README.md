@@ -1,6 +1,8 @@
 # psiphon-vps-server
 stabilizing vps psiphon server pro termux 
 $$$$$$$$$$$$$$$
+
+
 apt-get update
 
 apt-get upgrade
@@ -22,6 +24,11 @@ chmod +× psiphond
 screen -dmS psiphon ./psiphond run
 
 cat server-entry.dat
+
+
+
+
+
 
 Android Ghosts 👻 
 أشباح أندرويد
